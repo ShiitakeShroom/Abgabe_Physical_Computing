@@ -62,6 +62,24 @@ https://www.instructables.com/Arduino-Simple-Simon-Says-Game/
 
 ## Der Aufbau der Schaltkreises
 
+Schritt 1. Das Breadboard und das Arduino bereitstellen und den Ground und die 5V über Kabel an das Breadboard anschließen. 
+https://drive.google.com/file/d/1yqWPTNw7CM-bDCXt3srCTicOBYDhPk3w/view?usp=sharing(ohne kabel)
+https://drive.google.com/file/d/1xBmRgFFi-__kPan4EJiY6euynfpXXgGO/view?usp=sharing(5 volt)
+
+Schritt 2: Die Kabel an die Komponenten anschließen 
+https://drive.google.com/file/d/1YffoRbdV1k2WwZmN-4REde0tiTDDPNgG/view?usp=sharing(Joystick rohefassung)
+https://drive.google.com/file/d/1iqX59vGz8PmEdaVLbAVm-EwOlCekCJ01/view?usp=sharing(mit kabeln)
+https://drive.google.com/file/d/1WM5itZ1Iu6y0WhtUdG_SZaBnQB4mNssv/view?usp=sharing (nahaufnahme)
+
+Schritt 2.5: LED´s verkabeln und anschließen
+https://drive.google.com/file/d/1JTCkvKeNAIodpCqtLEJc4ydG12UiVLD3/view?usp=sharing(LED rohe)
+https://drive.google.com/file/d/1GmpeywmBTSnVG1nGGMR8eedMGH0Mfp0Y/view?usp=sharing( verkabelung von Leds)
+
+Am Output ist ein wiederstand verlöhtet
+https://drive.google.com/file/d/1sMm9My6rx2ILVAn0Xucrhsr54n5A78bR/view?usp=sharing(
+
+
+
 
 
 ## Wie funktioniert es 
