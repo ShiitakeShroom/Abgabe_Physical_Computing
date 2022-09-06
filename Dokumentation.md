@@ -32,14 +32,15 @@ Mit jeder erfolgreich abgeschlossenen runde leuchtet in der Reihenfolge ein zus�
 
 ### Joy-Stick 
 
+Mit Hilfe des Tutorials habe ich mich an dem Joystick getestet und versucht ihn wie im Code eine Antwort von dem Input über den Joystick zu bekommen.
+Tutorial
 https://funduino.de/nr-22-joystick-modul
 
-Mit Hilfe des Tutorials habe ich mich an dem Joystick getestet und versucht ihn wie im Code eine Antwort von dem Input über den Joystick zu bekommen 
-
 ### LED Pixel 
-https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/
 
 Hier war die Übung drin das LED blinken zu lassen. Funktioniert soweit auch so mit dem Code. 
+Tutorial
+https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/
 
 ### Kombinierte LED aktivieren 
 
@@ -51,12 +52,17 @@ https://github.com/adafruit/Adafruit_NeoPixel
 
 ## Die Herausforderung 
 Jetzt nachdem ich mich mit den verschiedenen Komponenten auseinander gesetzt habe  musste ich einen Code schreiben mit dem ich den Joystick als Input und die LED´s als Input anspreche. 
-Aber da ich als totaler Anfänger keinen Ahnung hab wie ich da überhaupt anfangen soll und die Tutorials mir nur Einblick gaben wie man die Komponenten ansprechen kann.
+Aber da ich als totaler Anfänger keinen Ahnung hab wie ich da überhaupt anfangen soll und die Tutorials mir nur Einblick gaben wie man die Komponenten ansprechen kann und nicht wie man sie in Kombination benutzen kann.
 
 Mit Hilfe des Tutorials von faziefazie hab ich dann die Ahnung bekommen wie ich den Code schreiben kann. 
 Mit den Übungen vorher war es dann recht einfach den Code auf die Komponenten anzupassen und zu konfigurieren. 
 
+das Tutorial von _faziefazie_
 https://www.instructables.com/Arduino-Simple-Simon-Says-Game/
+
+## Der Aufbau der Schaltkreises
+
+
 
 ## Wie funktioniert es 
 Mit Hilfe des Codes funktioniert das Spiel. 
