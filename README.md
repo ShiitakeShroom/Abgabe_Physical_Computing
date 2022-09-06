@@ -3,7 +3,7 @@ Das Github Repository für meine Semesterabgabe im 3_Gig Kurs Pysical Computing
 
 # LED Simon Says with Joystick Input
 
-Ein Simon Says Spiel das sich über einen Joystick als Inputeingabe steuern lässt. 
+Ein Simon Says Spiel das sich über einen Joystick steuern lässt. 
 
 # Komponenten 
 
