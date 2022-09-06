@@ -140,7 +140,7 @@ Passive Infrared Detectors oder auch Movement Sensors werden benutzt um physisch
 Die Sensoren erfassen mithilfe von Infrarot und Laser die Bewegungen und geben diese als elektrisches Signal weiter an den an den eingebauten Computer.
 
 
-## Zwei unterschiedliche Projekte
+### Zwei unterschiedliche Projekte
 
 Projekt 1:
 
@@ -153,7 +153,7 @@ Im Kontrast zu dem vorherigen Projekt benötigt dieses Projekt mehr Komponenten.
 https://www.electronicsforu.com/electronics-projects/ping-pong-game-using-arduino
 
 _______________________________________________________________________________________________________________________________________________________________
-### Hausaufgabe Drei 
+## Hausaufgabe Drei 
 
 Projekt 1:
 The Flying Dutchman Nachbau
@@ -177,7 +177,7 @@ Nano Piano
 Ein kleinen Piano, dass mit der Hilfe von Arduino Nano Every funktioniert.Das Mini-Piano funktioniert mit einem Buzzer und einen Button.
 https://www.hackster.io/christian-madlansacay/nano-piano-8da96d
 _______________________________________________________________________________________________________________________________________________________________
-### Hausaufgaben Vier
+## Hausaufgaben Vier
 
 ### Freies Projekt 
  
