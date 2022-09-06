@@ -27,7 +27,7 @@ Wenn der Spieler die richtige Reihenfolge einhält, bekommt er eine positive Bes
 falls der Spieler jedoch fehlschlägt, leuchten die Tasten in Rot auf und das Spiel beginnt von vorne.
 Mit jeder erfolgreich abgeschlossenen runde leuchtet in der Reihenfolge ein zusätzliches Licht auf. 
 
-# Der Beginn
+# Der Projekt
 ## Auseinandersetzung mit der Hardware
 
 ### Joy-Stick 
