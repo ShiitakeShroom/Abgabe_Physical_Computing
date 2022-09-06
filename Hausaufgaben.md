@@ -1,5 +1,61 @@
 Secret Life of Components 
 
+"Wofür brauche ich die Komponente/n?"
+Tilt Sensors = Bewegungen zu registrieren 
+	
+Pressur Sensors= Mit Druck(Pressur) zu registrieren 
+
+Level Sensor = erfasst die Höhe und Bewegung der verschiedenen Flüssigkeit  
+
+Temperetur Sensor = Die Senosren erfassen die Temperaturen und Machen sie sie als elektrisches Signal Messbar
+
+Reed Switches = Dienen als Magnetschalter 
+
+Powered Sensors
+	
+Opto Sensors = Durch aussenden von Licht wird ein Opjekt erfasst 
+
+Shaft encoders = Der Shaft Encoder gibt an wie der Zeiger sich rotatiert 
+
+Inductive Sensors = werden benutzt um Positionen zu bestimmten bzw zu messen
+
+Movement Sensors = Erfasst physiche und kinetische bewegungen und fbesitzt die möglichkeit diese einzufangen 
+
+ 
+"Wie benutze ich die Komponente/n?"
+
+Tilt Sensors = Durch eine bestimmt Bewegung( drehung, Neigung) die für das Gerät vorausgesehen wurde 
+schließt es den Stromkreis und aktiviert so das Gerät
+	
+Pressur Sensor = Über Druck wird ein zwischenWand im selbst Schaltkreis, die eine
+bewegt wodurch ein leitender Kompoinent den Schlatkreis schließt
+
+Level Sensor =  Normalöerweise haben sie einen Magnet in einem kleinen Zylinder um den Schalter 
+und durch die Bewegung im Wasser zu erfassen bzw. den Wasserstand 
+
+Temperetur Sensor= Über verschiedenen Temperaturen wird das im Sensor verarbietet Metall erhitzt, wodurch es sich verbiegt 
+und so den Stromkreis schließt 
+
+Reed Switches = Die Schalter sind hermetisch abgedichtet. Mit Hiolfe eines Magneten wird im Inneren dieses Schalters, der Schaltkreis 
+geschlossen oder geöffnet
+	
+Powered Sensors
+	
+Opto Sensors =  Je nach OPto Sensor Type kann mit Hilfe von Licht ein Obejkt erfasst werden und der Sennsor wird aktiviert wenn das
+Licht unterbrochen wird  
+
+Shaft Encoder = Der Senosr wird an ein mechanisches System angeheftet und elktrisch an einem logischen System angeschlossen, dass dessen Werte messen kann
+
+Inductiv Sensor = Mithilfe der elktromagnetischen Induktion wird einen magnetisches Feld erzeugt, dass erkennt wenn Strom durschfleißt 
+Alternativ der Stromfluss fließt durch einen Schlatkreis, der einen Inudktiven Sensor enthält, wenn sich diese Magnetische Fe3ld ändern sollte 
+
+Movement Sensors = Mithilfe von Infarot oder lasern wird die Bewegung erfasst   
+
+"Was ist mit unklar?"
+_______________________________________________________________________________________________________________________________________________________________
+### Hausaufgabe Zwei
+Secret Life of Components 
+
 ## Sensors 
 
 Ein Sensor ist ein Gerät welches bestimmt Eigenschaften wie... 
@@ -30,6 +86,7 @@ Die folgenden Sensoren Komponenten sind:
 ##Wofür und wie die Komponenten benutzt werden
 
 ### Tilt Sensor
+![image](https://drive.google.com/uc?export=view&id=1zJpoINWLFWsk794dL3ngbxuzzDZlALFL)
 
 Der Tilt Sensor registriert bewegungen und orientiert sich an seiner Ausrichtung. 
 Indem man den Sensor in einen besimmte Richtung "neigt" wird dieser aktiviert und schließt den Stormkreis und gibt eine Signal wieder. 
@@ -41,6 +98,7 @@ Der Pressure Sensor bestreht aus einem stabilen Grundkörper und einer dünnen M
 Dadurch werden die Wiederstände zusammengeschaltet und ergeben ein elektrisches Signal. 
 
 ### Level Sensor
+![image](https://drive.google.com/uc?export=view&id=1y-75BkkMVF9FuNi1SGfd1KwCqHIZ1hlu) _Rain Water Level Sensor_
 
 Level Sensoren werden benutzt um die höhe verschiedener Flüssigkeiten in verschieden Behältnissen oder auch in der Natur, wie Flüssen oder Seen zu messen. 
 Dies kann sowohl als Punktmessung oder als konstante Messung erfolgen. 
@@ -74,13 +132,12 @@ Der Induktive Sensor ist eine berührungsloser Sensor. Abhängig wie sensible de
 Mithilfe der elktromagnetischen Induktion wird einen magnetisches Feld erzeugt, das erkennt wenn sich ihm einen metallenes Objekt nähert. Dies ist viel präziser als ein Reed Switch.
 
 ###  P.I.D  / Movement Sensors 
+![image](https://drive.google.com/uc?export=view&id=1Ry4Yy5NwmBJ9jyOqWnEGLAJaBgdsueoJ)
 
 Passive Infrared Detectors oder auch Movement Sensors werden benutzt um physische und kinetische Bewegungen von Menschen und Objekten zu erkennen oder um sie zu messen.
 Die Sensoren erfassen mithilfe von Infrarot und Laser die Bewegungen und geben diese als elektrisches Signal weiter an den an den eingebauten Computer.
-
 _______________________________________________________________________________________________________________________________________________________________
-
-### Hausaufgaben Zwei 
+### Hausaufgaben Drei
 
 ### Freies Projekt 
  
