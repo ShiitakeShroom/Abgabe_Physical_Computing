@@ -49,16 +49,16 @@ https://github.com/adafruit/Adafruit_NeoPixel
 Jetzt nachdem ich mich mit den verschiedenen Komponenten auseinander gesetzt habe  musste ich einen Code schreiben mit dem ich den Joystick als Input und die LED´s als Input anspreche. 
 Aber da ich als totaler Anfänger keinen Ahnung hab wie ich da überhaupt anfangen soll und die Tutorials mir nur Einblick gaben wie man die Komponenten ansprechen kann.
 
-mit Hilfe des Tutorials  von faziefazie hab ich dann die Ahnung bekommen wie ich den Code schreiben kann. 
+Mit Hilfe des Tutorials von faziefazie hab ich dann die Ahnung bekommen wie ich den Code schreiben kann. 
 Mit den Übungen vorher war es dann recht einfach den Code auf die Komponenten anzupassen und zu konfigurieren. 
 
 https://www.instructables.com/Arduino-Simple-Simon-Says-Game/
 
-#Wie funktioniert es 
- Mit Hilfe des Codes funktioniert das Spiel. 
+# Wie funktioniert es 
+Mit Hilfe des Codes funktioniert das Spiel. 
 Die Anleitung ist einfach. Wenn das Spiel bzw. das Arduino eingeschaltet wird leuchtet es in den vier voreingestellten Farben auf und nach einem kurzen Delay fängt das erste LED an aufzuleuchten und verlischt darauf hin. Hier muss der User dann mit dem Joystick eine Eingabe machen. Wenn der User in die richtige Richtung drückt leuchtet das selbe LED auf. Wenn man die Falsche Richtung drückt leuchtet das jeweilige LED auf und kurz darauf blinken alle LED´s rot auf und das Spiel beginnt von vorne.
 
-#Reflektion zu dem Kurs und der Abgabe
+# Reflektion zu dem Kurs und der Abgabe
 Mit der Anmeldung zum Kurs wollte ich mich etwas mehr mit meinem Coding Kenntnissen auseinandersetzen. Mit dem Verlauf des Kurses habe ich das auch gelernt mich C/C++ auseinanderzusetzen und wie ich Codes für die mir gegeben Komponenten umschreiben kann. Mit den gewonnenen Erfahrungen würde ich weiterhin an gerne solchen Projekten arbeiten die etwas Komplizierte sind als „Simon Says“. Zudem will ich weiter an der „Übersetzung“ von Codes für den Eigengebrauch erarbeiten und für meine Projekte benutzen.  
 
 
