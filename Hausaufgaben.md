@@ -1,4 +1,4 @@
-### Hausaufgaben Teil 1
+## Hausaufgabe Eins
 
 Secret Life of Components 
 
@@ -53,9 +53,9 @@ Alternativ der Stromfluss fließt durch einen Schlatkreis, der einen Inudktiven 
 
 Movement Sensors = Mithilfe von Infarot oder lasern wird die Bewegung erfasst   
 
-
 _______________________________________________________________________________________________________________________________________________________________
-### Hausaufgabe Zwei
+
+## Hausaufgabe Zwei
 Secret Life of Components 
 
 ## Sensors 
