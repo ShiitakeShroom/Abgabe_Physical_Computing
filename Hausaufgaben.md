@@ -161,13 +161,14 @@ The Flying Dutchman Nachbau
 Der Creator Miguel baut eine detailgetreue Nachbildung des Schiffs "The Flying Dutchman" aus den Filmen "Pirates of the Caribbean" nach und im inneren befindet sich ein Arduin. Die Aufgabe des Arduinos ist es:
 
 <ol>
-<li> aufleuchten von Kerzen in den Kabienen <li>
-<li> aufleuchten des Kellers/untern Teil des Schiffes <li>
-<li> Simuliert Kanonfeuer <li>
-<li> Simuliert das geisterhafte Licht des Schiffes <li>
-<li> Alle Effekte werden von Sound begleitet <li>
-<li> wird kontrolliert von einem Smartphone <li>
+<li> aufleuchten von Kerzen in den Kabienen </li>
+<li> aufleuchten des Kellers/untern Teil des Schiffes </li>
+<li> Simuliert Kanonfeuer </li>
+<li> Simuliert das geisterhafte Licht des Schiffes </li>
+<li> Alle Effekte werden von Sound begleitet </li>
+<li> wird kontrolliert von einem Smartphone </li>
 </ol>
+
 https://iniciacionalmodelismonaval-es.translate.goog/2022/05/18/maqueta-del-holandes-errante-desde-planos/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
 
 Projekt 2:
