@@ -1,3 +1,5 @@
+### Hausaufgaben Teil 1
+
 Secret Life of Components 
 
 "Wofür brauche ich die Komponente/n?"
@@ -51,7 +53,7 @@ Alternativ der Stromfluss fließt durch einen Schlatkreis, der einen Inudktiven 
 
 Movement Sensors = Mithilfe von Infarot oder lasern wird die Bewegung erfasst   
 
-"Was ist mit unklar?"
+
 _______________________________________________________________________________________________________________________________________________________________
 ### Hausaufgabe Zwei
 Secret Life of Components 
@@ -136,8 +138,45 @@ Mithilfe der elktromagnetischen Induktion wird einen magnetisches Feld erzeugt, 
 
 Passive Infrared Detectors oder auch Movement Sensors werden benutzt um physische und kinetische Bewegungen von Menschen und Objekten zu erkennen oder um sie zu messen.
 Die Sensoren erfassen mithilfe von Infrarot und Laser die Bewegungen und geben diese als elektrisches Signal weiter an den an den eingebauten Computer.
+
+
+## Zwei unterschiedliche Projekte
+
+Projekt 1:
+
+Witziges Projekt, dass mit der Hilfe eines Sensors am Arduino selbst, die Variationen im Licht misst. Der Creator will mit dem Sensor am Arduino die Farbe von den M&M´s bestimmen lassen, die er in eine Röhre fallen lässt. Aufgrund des engen Raums der Röhre misst der Sensor das reflektierende Licht des fallenden Objektes.
+https://create.arduino.cc/projecthub/8bitkick/classify-candy-in-free-fall-using-tinyml-2836bf?ref=tag&ref_id=machine%20learning&offset=34
+
+Projekt 2:
+
+Im Kontrast zu dem vorherigen Projekt benötigt dieses Projekt mehr Komponenten. Mit dem Projekt wird ein einfach Pong Game nachgebaut mit einem Potentiometers und einen Push Button. 
+https://www.electronicsforu.com/electronics-projects/ping-pong-game-using-arduino
+
 _______________________________________________________________________________________________________________________________________________________________
-### Hausaufgaben Drei
+### Hausaufgabe Drei 
+
+Projekt 1:
+The Flying Dutchman Nachbau
+
+Der Creator Miguel baut eine detailgetreue Nachbildung des Schiffs "The Flying Dutchman" aus den Filmen "Pirates of the Caribbean" nach und im inneren befindet sich ein Arduin. Die Aufgabe des Arduinos ist es:
+
+<ol>
+<li> aufleuchten von Kerzen in den Kabienen <li>
+<li> aufleuchten des Kellers/untern Teil des Schiffes <li>
+<li> Simuliert Kanonfeuer <li>
+<li> Simuliert das geisterhafte Licht des Schiffes <li>
+<li> Alle Effekte werden von Sound begleitet <li>
+<li> wird kontrolliert von einem Smartphone <li>
+</ol>
+https://iniciacionalmodelismonaval-es.translate.goog/2022/05/18/maqueta-del-holandes-errante-desde-planos/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+
+Projekt 2:
+Nano Piano
+
+Ein kleinen Piano, dass mit der Hilfe von Arduino Nano Every funktioniert.Das Mini-Piano funktioniert mit einem Buzzer und einen Button.
+https://www.hackster.io/christian-madlansacay/nano-piano-8da96d
+_______________________________________________________________________________________________________________________________________________________________
+### Hausaufgaben Vier
 
 ### Freies Projekt 
  
