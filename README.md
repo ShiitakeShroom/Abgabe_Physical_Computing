@@ -110,7 +110,7 @@ void input()//funktion erlaubt es den Spieler input übert den Joystick einzugeb
             Serial.print("X:");
             Serial.print(SensorWert, DEC); // Darstellung des Wertes als Dezimalzahl
 
-            if(SensorWert == 1023)//Muss maximalwert angeben mit dem Joystick; mit dem größer als... oder kleiner als wert werden die meisten eingaben als Fehlermeldung angegeben
+            if(SensorWert == 1023)//Muss maximalwert angeben mit dem Joystick; mit dem größer als... oder kleiner als wert werden die meisten eingaben als Fehlermeldung angegeben; X-Achse wird nach rechts gedrückt für die weiße Farbe
             {
                 pixels.setBrightness(10);
                 pixels.setPixelColor(0, pixels.Color(255, 255,255));
@@ -128,7 +128,7 @@ void input()//funktion erlaubt es den Spieler input übert den Joystick einzugeb
                 x++;
             }
 
-            if(SensorWert == 0)
+            if(SensorWert == 0)// xAchse nach links; Stick wird nach links gedrückt um die Farbe rot wiederzugeben
             {
                 pixels.setBrightness(10);
                 pixels.setPixelColor(1, pixels.Color(255, 0, 0));
@@ -151,7 +151,7 @@ void input()//funktion erlaubt es den Spieler input übert den Joystick einzugeb
             Serial.print(SensorWert, DEC);
 
 
-            if(SensorWert == 1023)
+            if(SensorWert == 1023)// y-Achse unten; Den Stick nach unten drücken für die blaue Farbe
             {
                 pixels.setBrightness(10);
                 pixels.setPixelColor(2, pixels.Color(0, 0,255));
@@ -169,7 +169,7 @@ void input()//funktion erlaubt es den Spieler input übert den Joystick einzugeb
                 x++;
             }
 
-            if(SensorWert == 0)
+            if(SensorWert == 0) //y-achse nach Oben; Stick wird nach oben gedrück für die Grüne Farbe
             {
                 pixels.setBrightness(10);
                 pixels.setPixelColor(3, pixels.Color(0, 255, 0));
