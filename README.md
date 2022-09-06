@@ -8,7 +8,7 @@ Ein Simon Says Spiel das sich über einen Joystick steuern lässt.
 # Komponenten 
 
 - Arduino Mega 2560 oder Arduino Uno
-  ![image](https://drive.google.com/file/d/1hiSJd5yH1DAKw2uczMnSHecqDYghV3IY/view?usp=sharing)
+  ![image](https://drive.google.com/uc?export=view&id=1hiSJd5yH1DAKw2uczMnSHecqDYghV3IY)
 -	Breadboard Generic
 -	Kabel
 -	Full Color LED Pixel
