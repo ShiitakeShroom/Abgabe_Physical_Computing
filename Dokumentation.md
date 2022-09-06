@@ -92,7 +92,7 @@ Die Kabel mit den die x- und y-Achsen des Joysticks verbunden sind werden in die
 Wie auch die LED Kabel werden die Kabel des JoySticks mit dem Ground mit dem 5 Volt PIN verbunden. 
 ![image](https://drive.google.com/uc?export=view&id=1_BPiSSkGVgG63QeLUy8wCLkAW0_QOTsq)
 
-Das ist der Endstand des Projektes und funktioniert auch so
+Das ist der Endstand des Projektes.
 
 
 ## Wie funktioniert es 
