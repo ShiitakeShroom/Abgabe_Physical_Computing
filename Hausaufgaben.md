@@ -78,3 +78,41 @@ Mithilfe der elktromagnetischen Induktion wird einen magnetisches Feld erzeugt, 
 Passive Infrared Detectors oder auch Movement Sensors werden benutzt um physische und kinetische Bewegungen von Menschen und Objekten zu erkennen oder um sie zu messen.
 Die Sensoren erfassen mithilfe von Infrarot und Laser die Bewegungen und geben diese als elektrisches Signal weiter an den an den eingebauten Computer.
 
+_______________________________________________________________________________________________________________________________________________________________
+
+### Hausaufgaben Zwei 
+
+### Freies Projekt 
+ 
+Projekt 1:
+Das Thema eine Figur bauen die registriert wenn sich einen Person in der nähe befindet.
+Durch LED aufleuchten zeigt die Figur das jemand in der Nähe ist/ abhängig von der entfernung zur figur leuchtet sie in verschiedenen Farben
+
+Projekt 2:
+Mit vier verschieden Tasten geben vier verschiedene Töne wieder, und abhänig in welcher reihenfolge spielen sie dann eine gespeichertes 
+Musikstück.
+
+Projekt Alternative 1: 
+
+##Musical Glove## von Sunnie Sang und Michie Cao 
+https://www.behance.net/gallery/13450643/Musical-Glove?tracking_source=search_projects_recommended%7Cphysical%20computing
+
+Die Dokumentation ist dadurch gut, das sie zeigt wo die Sensoren platziert sind und wie die Verkabelung am Ende dargestellt werden.
+Die schlechte Darstellung von dem Projeket liegt darin, dass die Trial und Error Phase nicht gut erklärt wird und man nicht nachvollziehen kann was 
+wie es zu dem vollendenten Projekt gekommen ist :
+
+Die Idee das man mit verschieden handgestures verschieden Noten spielt kommt dem zweiten Projekt nahe. 
+
+Ich würde mir zutauen den Handschuh nachzubauen, jedoch würde ich beim Annähen der Teil verzweifeln und auch die Verkabelung sieht kompliziert aus. 
+
+
+Projekt Alternative 2:
+
+##Klangfarben## Lias Umluft https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing
+
+Die Idee ist interessant aber jedoch sehr schlecht dokumentiert. Man weiß nicht wie es zusammen gebaut wurde oder wie es im Kern funktioniert
+
+Die verschieden einstellbaren Farben der LED´s kommne bei beiden Projekten nahe ran, jedoch die zusammengestellten Playlists und die in kopmbination leuchtenden Farben sind kein Teil meiner Planungen.
+
+Da dieses Projekt jedoch sehr einfach aussieht und wenig verlangt wäre es einfach umzusetzen. 
+
