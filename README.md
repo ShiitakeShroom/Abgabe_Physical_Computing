@@ -26,7 +26,7 @@ Ein Simon Says Spiel das sich über einen Joystick steuern lässt.
 ![image](https://drive.google.com/uc?export=view&id=1wR6mCGvW-e9sHc2xZfoCmoy3RmReKXpb)
 
 
-#Schematic
+# Schematic
 Über das Breadboard werden die Komponenten (LED Pixel x4 und JoyStick breakout Modul) mit dem Ground und den fünf Volt verbunden. 
 Es besteht auch die Möglichkeit den JoyStick mit dem 3,3 VOlt PIN zu verbinden, da der Joystick auch unter dieser Spannung funktioniert
 Die RGB kontrolle wird über den vierten (4) PIN eingesteckt. 
