@@ -31,7 +31,9 @@ Mit jeder erfolgreich abgeschlossenen runde leuchtet in der Reihenfolge ein zus√
 ## Auseinandersetzung mit der Hardware
 
 ### Joy-Stick 
+
 https://funduino.de/nr-22-joystick-modul
+
 Mit Hilfe des Tutorials habe ich mich an dem Joystick getestet und versucht ihn wie im Code eine Antwort von dem Input √ºber den Joystick zu bekommen 
 
 ### LED Pixel 
