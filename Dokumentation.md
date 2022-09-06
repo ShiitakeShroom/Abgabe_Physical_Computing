@@ -1,3 +1,5 @@
+# Dokumentation
+
 Zu Beginn des Monats und hin zur Abgabe wollte ich einen Amazon Alexa mithilfe eines Arduinos und einem 1Sheeld wie in diesem Tutorial:
 
 https://create.arduino.cc/projecthub/ahmedismail3115/arduino-based-amazon-echo-using-1sheeld-84fa6f?ref=platform&ref_id=424_trending___&offset=53
@@ -17,7 +19,7 @@ Unter den teilen waren verschiedene Sensoren, LED´s, ein Joystick, usw.
 Unter den Teilen waren ein Joystick und eine Pixel-LED. 
 Mit den kam mir Idee einen Simons Says Spiel nachzubauen.
 
-# Simons Says  
+## Simons Says  
 
 Das Prinzip hinter dem Spiel ist es den Anweisungen von Simon zu folgen. In der elektrischen Variante besitzt das Spiel vier verschieden farbige Knöpfe, die zufällig aufleuchten. 
 Der Spieler muss die Anweisung des Spiels selbst folgen, indem der Spieler in der Reihenfolge auf den Knöpfen drücke in der sie aufleuchten. 
@@ -28,16 +30,16 @@ Mit jeder erfolgreich abgeschlossenen runde leuchtet in der Reihenfolge ein zus�
 ## Der Beginn
 #Auseinandersetzung mit der Hardware
 
-# Joy-Stick 
+## Joy-Stick 
 https://funduino.de/nr-22-joystick-modul
 Mit Hilfe des Tutorials habe ich mich an dem Joystick getestet und versucht ihn wie im Code eine Antwort von dem Input über den Joystick zu bekommen 
 
-# LED Pixel 
+## LED Pixel 
 https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/
 
 Hier war die Übung drin das LED blinken zu lassen. Funktioniert soweit auch so mit dem Code. 
 
-# Kombinierte LED aktivieren 
+## Kombinierte LED aktivieren 
 
 Mit dem Bekannt haben wir dann vier LED´s aneinander gelötet. Über den Code aus dem vorherigen Tutorial wurden die LED´s nicht angesprochen. 
 Mit ein wenig Internet Recherche bin ich über die „Adafruit_Neopixel“ Liberay gestoßen. 
@@ -54,11 +56,11 @@ Mit den Übungen vorher war es dann recht einfach den Code auf die Komponenten a
 
 https://www.instructables.com/Arduino-Simple-Simon-Says-Game/
 
-# Wie funktioniert es 
+## Wie funktioniert es 
 Mit Hilfe des Codes funktioniert das Spiel. 
 Die Anleitung ist einfach. Wenn das Spiel bzw. das Arduino eingeschaltet wird leuchtet es in den vier voreingestellten Farben auf und nach einem kurzen Delay fängt das erste LED an aufzuleuchten und verlischt darauf hin. Hier muss der User dann mit dem Joystick eine Eingabe machen. Wenn der User in die richtige Richtung drückt leuchtet das selbe LED auf. Wenn man die Falsche Richtung drückt leuchtet das jeweilige LED auf und kurz darauf blinken alle LED´s rot auf und das Spiel beginnt von vorne.
 
-# Reflektion zu dem Kurs und der Abgabe
+## Reflektion zu dem Kurs und der Abgabe
 Mit der Anmeldung zum Kurs wollte ich mich etwas mehr mit meinem Coding Kenntnissen auseinandersetzen. Mit dem Verlauf des Kurses habe ich das auch gelernt mich C/C++ auseinanderzusetzen und wie ich Codes für die mir gegeben Komponenten umschreiben kann. Mit den gewonnenen Erfahrungen würde ich weiterhin an gerne solchen Projekten arbeiten die etwas Komplizierte sind als „Simon Says“. Zudem will ich weiter an der „Übersetzung“ von Codes für den Eigengebrauch erarbeiten und für meine Projekte benutzen.  
 
 
