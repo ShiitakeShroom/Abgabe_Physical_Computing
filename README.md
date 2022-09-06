@@ -1,11 +1,11 @@
 # Abgabe_Physical_Computing
 Das Github Repository für meine Semesterabgabe im 3_Gig Kurs Pysical Computing
 
-# LED Simon Says with Joystick Input
+## LED Simon Says with Joystick Input
 
 Ein Simon Says Spiel das sich über einen Joystick steuern lässt. 
 
-# Komponenten 
+## Komponenten 
 
 - Arduino Mega 2560 oder Arduino Uno
 ![image](https://drive.google.com/uc?export=view&id=1hiSJd5yH1DAKw2uczMnSHecqDYghV3IY)
@@ -26,7 +26,7 @@ Ein Simon Says Spiel das sich über einen Joystick steuern lässt.
 ![image](https://drive.google.com/uc?export=view&id=1wR6mCGvW-e9sHc2xZfoCmoy3RmReKXpb)
 
 
-# Schematic
+## Schematic
 Über das Breadboard werden die Komponenten (LED Pixel x4 und JoyStick breakout Modul) mit dem Ground und den fünf Volt verbunden. 
 Es besteht auch die Möglichkeit den JoyStick mit dem 3,3 VOlt PIN zu verbinden, da der Joystick auch unter dieser Spannung funktioniert
 Die RGB kontrolle wird über den vierten (4) PIN eingesteckt. 
@@ -34,7 +34,7 @@ Die X-Achse des JoySticks (VRx) wird in den PIN von A0 eingesteckt.
 die Y-Achse des JoySticks (Vry) wird in den Pin von A1 eingesteckt.
 ![image](https://drive.google.com/uc?export=view&id=13__wiImGdgXW7VIOFSbN7H9BF-pF25Rl)
 
-# Code 
+## Code 
 ```
 #include <Arduino.h>
 #include <Adafruit_NeoPixel.h>
