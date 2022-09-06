@@ -27,19 +27,19 @@ Wenn der Spieler die richtige Reihenfolge einhält, bekommt er eine positive Bes
 falls der Spieler jedoch fehlschlägt, leuchten die Tasten in Rot auf und das Spiel beginnt von vorne.
 Mit jeder erfolgreich abgeschlossenen runde leuchtet in der Reihenfolge ein zusätzliches Licht auf. 
 
-## Der Beginn
-#Auseinandersetzung mit der Hardware
+# Der Beginn
+## Auseinandersetzung mit der Hardware
 
-## Joy-Stick 
+### Joy-Stick 
 https://funduino.de/nr-22-joystick-modul
 Mit Hilfe des Tutorials habe ich mich an dem Joystick getestet und versucht ihn wie im Code eine Antwort von dem Input über den Joystick zu bekommen 
 
-## LED Pixel 
+### LED Pixel 
 https://arduinomodules.info/ky-009-rgb-full-color-led-smd-module/
 
 Hier war die Übung drin das LED blinken zu lassen. Funktioniert soweit auch so mit dem Code. 
 
-## Kombinierte LED aktivieren 
+### Kombinierte LED aktivieren 
 
 Mit dem Bekannt haben wir dann vier LED´s aneinander gelötet. Über den Code aus dem vorherigen Tutorial wurden die LED´s nicht angesprochen. 
 Mit ein wenig Internet Recherche bin ich über die „Adafruit_Neopixel“ Liberay gestoßen. 
@@ -47,7 +47,7 @@ Mit diesem Tutorial und diesen Code versuchen konnte ich die LED´s zufällig in
 https://github.com/adafruit/Adafruit_NeoPixel
 
 
-# Die Herausforderung 
+## Die Herausforderung 
 Jetzt nachdem ich mich mit den verschiedenen Komponenten auseinander gesetzt habe  musste ich einen Code schreiben mit dem ich den Joystick als Input und die LED´s als Input anspreche. 
 Aber da ich als totaler Anfänger keinen Ahnung hab wie ich da überhaupt anfangen soll und die Tutorials mir nur Einblick gaben wie man die Komponenten ansprechen kann.
 
